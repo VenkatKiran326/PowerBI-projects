@@ -3,6 +3,8 @@
 
 This Power BI report presents a detailed **visual analysis of e-commerce sales data** for *Kiran E-Commerce*, focused on performance across **states, customers, payment modes, and product categories**.
 
+## 📁 Dashboard <a href="https://adityagroup-my.sharepoint.com/:u:/g/personal/23p31f0057_acet_ac_in/ET0W-23rEtZNq0-HkubVf7QBO8HHbkWhls80cz6WklH_gg?e=jYA7vx>Dashboard </a>
+
 ## 📁 Dataset Used
 I used a custom dataset containing e-commerce sales records with fields such as:
 - State
